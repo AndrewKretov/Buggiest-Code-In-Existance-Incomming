@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="pF5r6d8pV2lyjZ7vTq8y">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-42" target="G6tN2OC_qW5iVHgDtbus-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-42" value="Begin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-43" target="G6tN2OC_qW5iVHgDtbus-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-43" target="G6tN2OC_qW5iVHgDtbus-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-43" value="Draw a card" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-48" value="End" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-45" target="G6tN2OC_qW5iVHgDtbus-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-45" value="Guess if card is higher or lower" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-47" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-53" target="G6tN2OC_qW5iVHgDtbus-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-53" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2;arrowSize=0.4;strokeWidth=2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="66.25" y="191.25" width="57.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-57" value="Correct" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G6tN2OC_qW5iVHgDtbus-55" target="G6tN2OC_qW5iVHgDtbus-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6tN2OC_qW5iVHgDtbus-55" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="313.13" width="67.5" height="26.87" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
